@@ -1,5 +1,3 @@
-# Alejo-Varelas-projects
-Finance projects
 # HRP + Quality Boost Portfolio
 
 > **Hierarchical Risk Parity with a multiplicative quality tilt — backtested vs MSCI World (2020–2024)**
