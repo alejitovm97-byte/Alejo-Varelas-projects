@@ -142,6 +142,7 @@ Developed as part of the **Master in Finance & Banking (Markets Specialization)*
 
 **Reference:**
 López de Prado, M. (2016). *Building diversified portfolios that outperform out of sample*. Journal of Portfolio Management, 42(4), 59–69.
+
 Quality Score Implementation: Based on the *Quality Minus Junk* factor framework by Clifford Asness, Andrea Frazzini, and Lasse Pedersen.
 
 ## Technologies & Libraries
