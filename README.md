@@ -90,15 +90,15 @@ hrp-quality-portfolio/
 ## Quickstart
 
 ```bash
-# Clone the repository
-git clone https://github.com/<your-username>/hrp-quality-portfolio.git
-cd hrp-quality-portfolio
+# Clone
+git clone https://github.com/Alejo-Varelas-projects/HRP-Quality-Portfolio.git
+cd HRP-Quality-Portfolio
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the full pipeline
-python src/hrp_quality.py
+python hrp_quality.py
 ```
 
 The script will:
