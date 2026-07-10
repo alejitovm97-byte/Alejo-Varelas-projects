@@ -133,7 +133,7 @@ Implementada detección de acciones que dejan de cotizar entre rebalanceos (gap 
 
 ---
 
-## 7. RESULTADOS PRINCIPALES (última corrida)
+## 7. RESULTADOS PRINCIPALES
 
 ### Tabla de métricas (período abr 2011 – dic 2025, Rf=1.48%, costos 10bp)
 
